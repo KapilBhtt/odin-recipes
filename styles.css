@@ -13,6 +13,16 @@ h2 {
     text-align: center;
 }
 
+.home-link-recipes {
+    color: black;
+    border:2px solid;
+    padding: 5px
+}
+
+.home-link-recipes:hover {
+    color: cyan;
+}
+
 li {
     padding: 5px;
 }
