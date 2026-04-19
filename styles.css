@@ -3,12 +3,19 @@ html {
     padding: 10px;
 }
 
+h1 {
+    border-bottom: 2px solid;
+    width: fit-content;
+}
+
 #h1-odin {
     border: 4px solid;
     padding: 10px;
     box-sizing: border-box;
     width: 250px;
 }
+
+
 
 h2 {
     box-sizing: border-box;
